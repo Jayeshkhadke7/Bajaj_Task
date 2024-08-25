@@ -1,7 +1,7 @@
 {
   "name": "bfhl",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Express.js application",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",

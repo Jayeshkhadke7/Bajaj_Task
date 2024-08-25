@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+textarea {
+  margin: 10px 0;
+}
+
+button {
+  margin: 10px;
+}
+
+pre {
+  text-align: left;
+  display: inline-block;
+  margin: 10px 0;
+}
